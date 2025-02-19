@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Krishan Goyal</h1>
 <h3 align="center">1st year B.tech student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishangoyal12" alt="krishangoyal12" /></a> </p>
-
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **krishangoyal717@gmail.com**
@@ -22,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishangoyal12&show_icons=true&locale=en&layout=compact" alt="krishangoyal12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishangoyal12&show_icons=true&locale=en" alt="krishangoyal12" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishangoyal12&" alt="krishangoyal12" /></p>
