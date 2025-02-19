@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Krishan Goyal</h1>
 <h3 align="center">1st year B.tech student</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishangoyal12&label=Profile%20views&color=0e75b6&style=flat" alt="krishangoyal12" /> </p>
+
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **krishangoyal717@gmail.com**
