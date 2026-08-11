@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishan Goyal</h1>
-<h3 align="center">2nd year B.tech student</h3>
+<h3 align="center">3rd year B.tech student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishangoyal12&label=Profile%20views&color=0e75b6&style=flat" alt="krishangoyal12" /> </p>
 
